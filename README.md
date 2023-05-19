@@ -10,6 +10,7 @@ Hi there, I'm Rishil 👋
 - ⚡ Fun fact: I love to play guitar and video games
 
 Major Projects:
+
 a. **Worspace (An application to store your important files)**
     Created a desktop application that stores your important files which can be directly opened through this application which saves time and improves
     the processing speed of the computer.
@@ -23,6 +24,7 @@ c. **Development of API for estimating Torsional Strength of Machine elements th
 
 
 Minor Projects:
+
 a. Image converter
 b. PDF Merger with watermark
 c. Password Checker
